@@ -2,7 +2,7 @@
 
 A hands-on PyTorch lab exploring **curvature, Newton's method, Hessian computation, quasi-Newton optimization, and Hessian-free methods**.
 
-The lab demonstrates why second-order optimization can converge in very few iterations, while also showing why explicitly computing and storing the Hessian becomes impractical for large neural networks.
+The demonstration of why second-order optimization can converge in very few iterations, while also showing why explicitly computing and storing the Hessian becomes impractical for large neural networks.
 
 ## Overview
 
